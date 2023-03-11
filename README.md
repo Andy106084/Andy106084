@@ -4,7 +4,7 @@
 
 # Skill trees
 
-[<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndyYang&layout=compact&theme=gruvbox">](https://wakatime.com/@AndyYang)
+[<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndyYang&layout=compact&theme=transparent">](https://wakatime.com/@AndyYang)
 
 What language am I writing in recently?
 
