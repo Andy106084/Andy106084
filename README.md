@@ -6,13 +6,14 @@
 
 [<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndyYang&layout=compact&theme=gruvbox">](https://wakatime.com/@AndyYang)
 
-### What language am I writing in recently?
+What language am I writing in recently?
 
-[<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy106084&langs_count=10&layout=compact&theme=gruvbox&exclude_repo=security-challange-php-codeigniter">](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy106084&langs_count=10&layout=compact&exclude_repo=security-challange-php-codeigniter&theme=gruvbox">](https://github.com/anuraghazra/github-readme-stats)
 
 # Frontend
 * Language: HTML,CSS,JavaScript,TypeScript,React
 * Framework: Nextjs,Vue
+* UI Framework: Bootstrap,Tailwind CSS,Material UI
 
 # Backend
 * Framework: ASP.NET MVC,ASP.NET CORE(MVC)
@@ -30,6 +31,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 
 
 
