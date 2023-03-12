@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Andy
 
-[<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api?username=Andy106084&show_icons=true&theme=transparent">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" alt="Github status" src="https://github-readme-stats.vercel.app/api?username=Andy106084&show_icons=true&theme=transparent">](https://github.com/anuraghazra/github-readme-stats)
 
 A coder who is committed to improve and simplify life, and also a passionate project maker.
 
@@ -12,12 +12,14 @@ A coder who is committed to improve and simplify life, and also a passionate pro
 
 # Skill trees
 
-[<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndyYang&layout=compact&theme=transparent">](https://wakatime.com/@AndyYang)
+[<img align="right" height="300em" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndyYang&layout=compact&theme=transparent">](https://wakatime.com/@AndyYang)
 
 I'm a JavaScript lover, so I mostly use JavaScript as my project language.
+
 I'm a JavaScript lover, so I mostly use JavaScript as my project language.
 
-[<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy106084&langs_count=10&layout=compact&exclude_repo=security-challange-php-codeigniter&theme=transparent">](https://github.com/anuraghazra/github-readme-stats)
+I'm a JavaScript lover, so I mostly use JavaScript as my project language.
+[<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy106084&exclude_repo=cf-stats&theme=transparent">](https://github.com/anuraghazra/github-readme-stats)
 
 ## Frontend
 
