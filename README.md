@@ -24,13 +24,21 @@ I develop using JavaScript (front end) and C# (back end).
 
 ## Backend
 
-- Framework: ASP.NET MVC,ASP.NET CORE(MVC)
+- Framework: ASP.NET MVC,ASP.NET CORE
 - Database: MSSQL
-
+-  
 ## General Web Skills
 
 - CI: Commitlint,ESLint,Prettier
 - Tools: Webpack
+## Blockchain
+
+- Framework: Node.js with the web3.js library for interacting with the blockchain
+- Smart Contract Language: Solidity
+- Blockchain: Ethereum
+- Private Network: Geth
+- Test Network: Ganache
+- Explorer: Blockscout
 
 ## <b>&#128200; Competitive Programming</b>
 [<img alt="Virtual Judge" height="350em" src="https://user-images.githubusercontent.com/76254396/224528417-283e5faf-59d9-4e68-8cce-ebf984299f11.png">](https://vjudge.net/user/s1091915)
