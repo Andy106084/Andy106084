@@ -26,11 +26,13 @@ I develop using JavaScript (front end) and C# (back end).
 
 - Framework: ASP.NET MVC,ASP.NET CORE
 - Database: MSSQL
--  
+
 ## General Web Skills
 
 - CI: Commitlint,ESLint,Prettier
+- CD: Use Docker to Deploy
 - Tools: Webpack
+
 ## Blockchain
 
 - Framework: Node.js with the web3.js library for interacting with the blockchain
